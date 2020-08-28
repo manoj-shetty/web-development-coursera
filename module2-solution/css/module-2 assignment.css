@@ -1,6 +1,6 @@
 * {
 	box-sizing:border-box;
-	font-family:Cambria,cochin,georgia,Times,'Times New Roman',serif;
+	font-family:Bradley Hand, cursive;
 }
 h1{
 	color: blue;
@@ -10,8 +10,8 @@ h1{
 
 section{
 	border: 1px solid black;
-	background-color:bisque;
-	height: 250px;
+	background-color:#EAECEE;
+	height: 270px;
 	overflow: auto; 
 } 
 
